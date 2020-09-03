@@ -3,7 +3,7 @@
 - From Finance to IT
 
 
-## Education & Professional experience:
+## Education & Professional Experience:
 - Master's Degrees in Finance and Banking
 - Ex-external auditor BDO https://www.bdo.ru/en
 
@@ -18,7 +18,7 @@
 
 
 ## Follow Me:
-
+![Flutter](https://img.shields.io/badge/FLutter-090909)
 
 
 
