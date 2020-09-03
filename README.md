@@ -18,7 +18,7 @@
 
 
 ## Follow Me:
-![Flutter](https://img.shields.io/badge/FLutter-090909)
+![Linkedin](https://img.shields.io/badge/Linkedin-47C5FB?style=for-the-badge&logo=Linkedin)
 
 
 
