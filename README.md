@@ -18,7 +18,7 @@
 
 
 ## Follow Me:
-![Linkedin](https://img.shields.io/badge/Linkedin-47C5FB?style=for-the-badge&logo=Linkedin)
+[![!Linkedin](https://img.shields.io/badge/Linkedin-47C5FB?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ekaterina-voronina-8822b8139/)
 
 
 
