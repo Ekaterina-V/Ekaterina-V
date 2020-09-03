@@ -5,10 +5,10 @@
 
 ## Education & Profeccinal Experience:
 - Master's Degrees in Finance and Banking
-- Ex-external auditor BDO https://www.bdo.ru/en-gb/home-en
+- Ex-external auditor BDO https://www.bdo.ru/en
 
 
-## Languages & Tools:'
+## Languages & Tools:
 - HTML & CSS
 - Agile Project Management
 - Programming Methodology (Git, Debugging, Documentation, Virtualization of development environment, etc.)
