@@ -31,7 +31,7 @@
 ## Links to my individual projects at Chas Academy:
 1. Static website (HTML&CSS) https://github.com/Ekaterina-V/Static-website-u01
 2. Hangman Game (HTML&JavaScript) https://github.com/chas-academy/u03-hangman-Ekaterina-V
-3. Car Rental Application (was developed using PHP, MySQL, Twig, JavaScript, HTML, MVC framework) https://github.com/Ekaterina-V/Car-Rental-Application-u05
+3. Car Rental Application (was developed using PHP, MySQL, Twig, JavaScript, HTML, MVC framework) https://github.com/Ekaterina-V/Car-Rental-Application-u05. To see how the application works http://ekaterina.voronina.chas.academy/
 4. Angular Movie Application (HTML&CSS, JavaScript, API) https://github.com/Ekaterina-V/Angular-Movie-Application-u07
 
 
