@@ -37,7 +37,7 @@
 5.  Full Stack Apllication "Family Bakery App". This project was made with Node.js and Express.js on the backend, Angular on the frontend and MongoDB as a database solution.Link to the Github: https://github.com/Ekaterina-V/Full-Stack-js-u11.git
     Link to Heroku: https://family-bakery-app.herokuapp.com/
 
-6.  Intership at FinTeck startup & Examenation project.
+6.  Intership at FinTech startup & Examenation project.
     I have developed a project with a full integration of the company’s API to implement various payment and withdrawal options.
 
     Design and developing a Demo web application from scratch:
